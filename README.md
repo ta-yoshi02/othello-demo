@@ -11,6 +11,10 @@ public/
   main.js      # Scala.js のビルド成果物（非公開ソースから生成）
 ```
 
+### 公開ページ
+
+GitHub Pages での公開先は `public/` 配下です。トップ (`https://ta-yoshi02.github.io/othello-demo/`) へアクセスすると、自動的に `https://ta-yoshi02.github.io/othello-demo/public/` にリダイレクトされます。
+
 ### ローカルで遊ぶ
 
 1. リポジトリを取得後、`public` ディレクトリをルートに簡易サーバーを立てます。
